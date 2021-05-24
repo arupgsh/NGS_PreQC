@@ -4,7 +4,7 @@ PreQC is a collection of Python3 scripts to extract informations like instrument
 
 ## Scripts currently available
 
-` fast_illumina_seq_detector.py ` : This script detects the name of sequencer and flowcell from Illumina sequencing data.
+` python3 fast_illumina_seq_detector.py ` : This script detects the name of sequencer and flowcell from Illumina sequencing data.
 
 **Usage** 
 
